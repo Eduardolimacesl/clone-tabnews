@@ -3,7 +3,7 @@
 >"Quando se planeja muito se executa pouco e quando se planeja pouco se executa muito."
 
 - Lucia Helena Galvão
->""
+>"Quando estamos presente de corpo, alma e coração no tempo presente, esse tempo se torna elástico."
 >
 
 #### Níveis de organizações de tarefas:

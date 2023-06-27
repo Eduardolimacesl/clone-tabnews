@@ -3,5 +3,5 @@ export default function Home() {
     <h1>
       Eu já disse que <strong>💖💖 eu te amo 💖💖</strong> hoje?
     </h1>
-  )
+  );
 }

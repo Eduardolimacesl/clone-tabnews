@@ -12,14 +12,20 @@ Implementação do https://www.tabnews.com.br/ a partir do https://curso.dev/
 
 ---
 
-### Dia1
+### Disposição de pastas
 
-### Dia2
-
----
-
-### [Dia8 - Qual o Segredo da organização de tarefas?](./docs/day8.md)
-
-### Dia9 -
-
-### [Dia10 - Configurações do editor](./docs/day10.md)
+📦 root
+┣ 📂 pages
+┃ ┣ 📄 index.js
+┣ 📂 models
+┃ ┣ 📄 user.js
+┃ ┣ 📄 content.js
+┃ ┣ 📄 password.js
+┣ 📂 infra  
+┃ ┣ 📄 database.js
+┃ ┣ 📂 migrations
+┃ ┃ ┣ 📂 provisioning
+┃ ┃ ┃ ┣ 📂 staging
+┃ ┃ ┃ ┣ 📂 production
+┣ 📂 tests
+┣ 📂 docs

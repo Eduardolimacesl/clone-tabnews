@@ -15,6 +15,7 @@ Implementação do https://www.tabnews.com.br/ a partir do https://curso.dev/
 
 ### Disposição de pastas
 
+```
 📦 root
 ┣ 📂 pages
 ┃ ┣ 📄 index.js
@@ -22,7 +23,7 @@ Implementação do https://www.tabnews.com.br/ a partir do https://curso.dev/
 ┃ ┣ 📄 user.js
 ┃ ┣ 📄 content.js
 ┃ ┣ 📄 password.js
-┣ 📂 infra  
+┣ 📂 infra
 ┃ ┣ 📄 database.js
 ┃ ┣ 📂 migrations
 ┃ ┃ ┣ 📂 provisioning
@@ -30,3 +31,6 @@ Implementação do https://www.tabnews.com.br/ a partir do https://curso.dev/
 ┃ ┃ ┃ ┣ 📂 production
 ┣ 📂 tests
 ┣ 📂 docs
+```
+
+---
